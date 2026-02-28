@@ -1,6 +1,9 @@
 **Zero-Trust Firewall & Governance Layer for Autonomous Web3 AI Agents**
 
-[Live Demo](https://gate-app-brown.vercel.app)
+
+https://github.com/user-attachments/assets/0f5b5751-8b61-4832-96d8-092fd1ac7743
+
+
 
 ---
 
@@ -53,3 +56,4 @@ npm run dev
 ```
 
 Open `http://localhost:3000` in your browser and click the stream button to begin the simulation.
+
